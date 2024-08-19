@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BrandonMGG&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 
-- 🔭 I’m currently working as a **Software Developer** at **Fiserv**, employed by Infinite Computer Solutions
+- 🔭 I’m currently working as a **Software Developer** 
   - **Role:** Developing and maintaining user interfaces for various banking solutions
   - **Technologies:** Angular, TypeScript, HTML, CSS
   - **Collaboration:** Worked closely with backend developers and designers to ensure seamless integration across platforms
